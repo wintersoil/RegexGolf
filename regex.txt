@@ -1,0 +1,3 @@
+Solving the Regex Golf at https://alf.nu/RegexGolf
+
+1. \w*foo\w*
