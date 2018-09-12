@@ -5,10 +5,10 @@ Classic
 1. foo
 2. k$
 3. fu(?!\w)
-4. ^[adfbc][aebcd]\w[^mj]
+4. ^[a-f][^j-u]+[a-f]$
 5. 
 6. 
-7. ^(\w)(\w)(.+)?\2\1$
+7. ^(\w)(\w).*\2\1$
 8. 
 9. ([aeio])\w\1\w\1\w\1
-10. ^[abcdfgm][^ar].*?[yzstpmwn]$
+10. ^[a-m][^ar].*?[m-z]$
